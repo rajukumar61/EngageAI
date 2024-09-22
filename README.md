@@ -1,6 +1,5 @@
-## EngageAI
-
-# Churn Prediction & Retention System
+# EngageAI
+## Churn Prediction & Retention System
 
 ## Overview
 
@@ -57,7 +56,7 @@ Random Forest is an ensemble learning method that improves accuracy and handles 
 
 ## Generative AI for Retention Strategies
 
-- **Customized Strategies**: Develop tailored communication plans based on customer profiles and feedback using Hugging Face's Transformers library.
+- **Customized Strategies**: Develop tailored communication plans based on customer profiles and feedback using GPT-3 Model.
 
 ## System Integration & Deployment
 
@@ -102,14 +101,6 @@ Implement data streaming solutions for real-time data ingestion and model update
 B.Tech, Computer Science & Engineering  
 National Institute of Technology, Durgapur  
 [rajukumar6](mailto:rajukumar.sde@gmail.com)
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgments
-
-- Thanks to the contributors and libraries that made this project possible.
 
 ---
 
