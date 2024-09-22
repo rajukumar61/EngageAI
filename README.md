@@ -1,5 +1,7 @@
 # EngageAI
 Churn Prediction & Retention System
+![image](https://github.com/user-attachments/assets/8a8d3ca9-0d69-4928-81ae-117d4f169f05)
+
 
 ## Overview
 
