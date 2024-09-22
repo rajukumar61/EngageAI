@@ -1,5 +1,5 @@
 # EngageAI
-## Churn Prediction & Retention System
+Churn Prediction & Retention System
 
 ## Overview
 
@@ -100,7 +100,8 @@ Implement data streaming solutions for real-time data ingestion and model update
 **Raju Kumar**  
 B.Tech, Computer Science & Engineering  
 National Institute of Technology, Durgapur  
-[rajukumar6](mailto:rajukumar.sde@gmail.com)
+[rajukumar.sde@gmail.com](mailto:rajukumar.sde@gmail.com)
+[rajukumar6](https://www.linkedin.com/in/rajukumar6)
 
 ---
 
